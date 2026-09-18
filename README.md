@@ -23,11 +23,11 @@ The analysis evaluates delivery performance, compares actual delivery metrics ag
 
 ## 📄 Project Deliverables
 
-| Resource | Description |
-|----------|-------------|
-| 📓 **[Jupyter Notebook](https://github.com/Richa-Jain108/delhivery-logistics-feature-engineering-analysis/blob/main/notebooks/delhivery_logistics_feature_engineering_analysis.ipynb)** | Complete Python implementation including data cleaning, feature engineering, EDA, statistical analysis, and business insights |
+| Resource                                                                                                                                                          | Description                                                                                         |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
 | 📑 **[Analysis Report (PDF)](https://github.com/Richa-Jain108/delhivery-logistics-feature-engineering-analysis/blob/main/reports/delhivery_analysis_report.pdf)** | Comprehensive business report containing methodology, visualizations, findings, and recommendations |
-| 📊 **[Dataset](https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/001/551/original/delhivery_data.csv?1642751181)** | Original Delhivery logistics dataset |
+| 📊 **[Dataset](https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/001/551/original/delhivery_data.csv?1642751181)**                                   | Original Delhivery logistics dataset                                                                |
+
 
 ---
 
